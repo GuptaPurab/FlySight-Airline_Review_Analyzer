@@ -1,4 +1,4 @@
-<h1>✈️FlySight: Airline Review Analyzer
+<h1>✈️FlySight: Airline Review Analyzer</h1>
 FlySight is a data-driven project focused on collecting, analyzing, and visualizing customer reviews for British Airways. By scraping data from Skytrax — a well-known airline review platform — this project uncovers actionable insights into customer satisfaction, sentiment trends, and overall service quality.
 Project Objective
 To analyze customer reviews of British Airways and provide clear, visual insights into customer ratings, sentiments, and experience patterns. The goal is to help stakeholders identify strengths and areas of improvement in BA's services.
