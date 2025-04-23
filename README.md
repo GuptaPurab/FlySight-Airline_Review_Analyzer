@@ -1,18 +1,35 @@
-<h1>FlySight: Analyzing British Airways Customer Feedback</h1>
+# ✈️ FlySight: Airline Review Analyzer
 
-#Overview
-FlySight is a data science project focused on scraping and analyzing British Airways customer reviews to uncover sentiment trends and actionable insights.
+FlySight is a data-driven project focused on collecting, analyzing, and visualizing customer reviews for British Airways. By scraping data from Skytrax — a well-known airline review platform — this project uncovers actionable insights into customer satisfaction, sentiment trends, and overall service quality.
 
-#Process
-- Scraped customer reviews from Skytrax using Python and BeautifulSoup.
-- Cleaned and preprocessed the textual data.
-- Performed exploratory data analysis (EDA) to identify patterns.
-- Conducted sentiment analysis using natural language processing (NLP).
-- Visualized insights using charts and graphs.
+## 📌 Project Objective
 
-#Tools & Technologies
-Python, BeautifulSoup, Pandas, Seaborn, Matplotlib, NLTK
+To analyze customer reviews of British Airways and provide clear, visual insights into customer ratings, sentiments, and experience patterns. The goal is to help stakeholders identify strengths and areas of improvement in BA's services.
 
-#Outcome
-Identified key areas of customer satisfaction and dissatisfaction to inform potential service improvements.
+## 📊 Key Features
 
+- ✅ Web scraping of user reviews from [Skytrax](https://www.airlinequality.com)
+- ✅ Cleaning and preprocessing of textual and numerical data
+- ✅ Exploratory data analysis (EDA) using pandas, seaborn, and matplotlib
+- ✅ Visualization of:
+  - Star rating distribution
+  - Average ratings by country
+  - Word clouds from review text
+  - Sentiment breakdown of reviews
+- ✅ Highlighting top-rated countries and most common feedback themes
+
+## 🧰 Tech Stack
+
+- **Python**
+- **Pandas** – data wrangling
+- **BeautifulSoup** – web scraping
+- **Seaborn & Matplotlib** – data visualization
+- **WordCloud** – for visualizing frequent words
+- **Jupyter Notebook** – for analysis and presentation
+
+## 📎 Sample Visualizations
+
+- 📌 Bar plot of review ratings
+- 🌍 Country-wise average rating comparison
+- 💬 Word cloud for most frequent review terms
+- 😃 Breakdown of positive vs negative reviews (if sentiment analysis is extended)
